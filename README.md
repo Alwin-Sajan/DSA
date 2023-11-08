@@ -1,13 +1,14 @@
 # DSA
 
 ## Sorting 
-#### Insertion Sort
-#### Selection Sort
-#### Quick Sort
-#### Merge Sort
+* Insertion Sort
+* Selection Sort
+* Quick Sort
+* Merge Sort
+<br>
 
 ## Searching
-#### Linear Search
+* Linear Search
 
 ## Polynomial Addition
 
