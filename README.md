@@ -18,6 +18,7 @@ The choice of sorting algorithm depends on various factors, including the size o
 
 ## Searching
 * Linear Search
+* Binary Search
 
 ## Polynomial Addition
 
@@ -26,3 +27,7 @@ The choice of sorting algorithm depends on various factors, including the size o
 ## Stack
 
 ## Queue
+* Simple Queue
+* Circle Queue
+* Priority Queue
+* Double-end Queue
