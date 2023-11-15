@@ -6,6 +6,7 @@ All the program are written in c program language. Java version of this sorting 
 ## Sorting 
 * Insertion Sort
 * Selection Sort
+* Bubble Sort
 * Quick Sort
 * Merge Sort
 <p>
