@@ -9,6 +9,11 @@ All the program are written in c program language. Java version of this sorting 
 * Quick Sort
 * Merge Sort
 <br>
+<p>
+
+The choice of sorting algorithm depends on various factors, including the size of the dataset, the degree of pre-sorting, stability requirements, and the available memory. Merge sort and quicksort are often preferred for general-purpose sorting in larger datasets, while simpler algorithms like bubble sort and insertion sort may be suitable for smaller datasets or partially sorted lists.
+
+</p>
 
 ## Searching
 * Linear Search
