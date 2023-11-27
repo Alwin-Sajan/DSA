@@ -26,6 +26,8 @@ The choice of sorting algorithm depends on various factors, including the size o
 ## Sparse Matrix
 
 ## Stack
+* Stack
+* Infix to postfix conversion
 
 ## Queue
 * Simple Queue
