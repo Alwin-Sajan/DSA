@@ -21,10 +21,6 @@ The choice of sorting algorithm depends on various factors, including the size o
 * Linear Search
 * Binary Search
 
-## Polynomial Addition
-
-## Sparse Matrix
-
 ## Stack
 * Stack
 * Infix to postfix conversion
@@ -36,3 +32,8 @@ The choice of sorting algorithm depends on various factors, including the size o
 * Double-end Queue
 
 ## Link List
+
+## Polynomial Addition
+
+## Sparse Matrix
+
