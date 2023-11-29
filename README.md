@@ -33,6 +33,8 @@ The choice of sorting algorithm depends on various factors, including the size o
 
 ## Link List
 * Link list
+* Polynomial Addition
+* Polynomial Multiplication
 
 ## Polynomial Addition
 
