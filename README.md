@@ -7,7 +7,7 @@ All the program are written in c program language. Java version of this sorting 
 * Insertion Sort
 * Selection Sort
 * Bubble Sort
-* Quick Sort
+* Quick Sort (Java & c) 
 * Merge Sort
 
 <p align="center">
@@ -35,7 +35,7 @@ The choice of sorting algorithm depends on various factors, including the size o
 * Link list
 * Polynomial Addition
 * Polynomial Multiplication
-* Doubley Link List
+* Doubley Link List (Java) 
 
 ## Polynomial Addition
 
