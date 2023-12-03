@@ -41,3 +41,9 @@ The choice of sorting algorithm depends on various factors, including the size o
 
 ## Sparse Matrix
 
+## Hashing
+#### Hashing Functions:
+* Division Hash Function:
+> The simplest form of a hash function involves taking the remainder of the division of the key by the size of the hash table.
+* Multiplication Hash Function:
+> This hash function involves multiplying the key by a constant fraction and extracting the fractional part.
