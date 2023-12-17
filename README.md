@@ -9,6 +9,7 @@ All the program are written in c program language. Java version of this sorting 
 * Bubble Sort
 * Quick Sort (Java & c) 
 * Merge Sort
+* Heap Sort
 
 <p align="center">
 
